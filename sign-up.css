@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(socialmedia.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.sign-up-form {
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba;
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.sign-up-form h1 {
+    color: blue;
+    margin-bottom: 30px;
+}
+
+.input-box {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px 0;
+    width: 90%;
+    border: 1px solid #0000FF;
+    outline: none;
+}
+
+button {
+    color: #fff;
+    background-color: #0000FF;
+    width: 90%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    margin-top: 20px;
+    width: 80%;
+}
+
+.or {
+    background: #ffffff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
